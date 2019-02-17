@@ -1,6 +1,6 @@
 owner=349906494822547471
-prefix= ge
-game= Type ge help
+prefix= Ju
+game= Type Ju help
 stayinchannel=true
 songinstatus=true 
 token=NTQ0MDgwODc3MTEwNjg5ODEy.D0F6VQ.gndazXaO3VQ3-pCK3QsAogjJZSM
